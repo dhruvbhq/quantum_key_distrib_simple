@@ -1,0 +1,2783 @@
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 1.0
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [1. 0.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [0. 1.]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: 0/1
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0. 1.]
+---------------------------------------In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0.70710678 0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.9999999999999996
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [0. 1.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [ 0.70710678 -0.70710678]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.0
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [ 0.70710678 -0.70710678]
+---------------------------------------
+In Eve: input state:  [1. 0.]
+Measurement basis: +/-
+In Eve: probability of |0> or |+> 0.4999999999999999
+Returned state:  [0.70710678 0.70710678]
+---------------------------------------
+Alice's full key 
+0110010000001100000100011000001000010011010000100111111000000011000100010101000001010100000010000110001000011010
+ Size of Alice's (full) key is:  113
+Bob's full key 
+1100100000000100000100011000000000000010010000100111101000000011000100010101001001000100100010000110001000011011
+ Size of Bob's (full) key is:  113
+Error detected in keys. Bob's bit:  1 Alice's bit:  0 No. of errors detected:  1
+Error detected in keys. Bob's bit:  0 Alice's bit:  1 No. of errors detected:  2
+Error detected in keys. Bob's bit:  1 Alice's bit:  0 No. of errors detected:  3
+Error detected in keys. Bob's bit:  0 Alice's bit:  1 No. of errors detected:  4
+Error detected in keys. Bob's bit:  0 Alice's bit:  1 No. of errors detected:  5
+Error detected in keys. Bob's bit:  0 Alice's bit:  1 No. of errors detected:  6
+Error detected in keys. Bob's bit:  0 Alice's bit:  1 No. of errors detected:  7
+Error detected in keys. Bob's bit:  0 Alice's bit:  1 No. of errors detected:  8
+Error detected in keys. Bob's bit:  0 Alice's bit:  1 No. of errors detected:  9
+Places in which check bits differ:  [1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0
+ 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+Alice's remaining key is: 
+00000011000100010101000001010100000010000110001000011010
+ Size of Alice's remaining key is:  56
+Bob's remaining key is: 
+00000011000100010101001001000100100010000110001000011011
+ Size of Bob's remaining key is:  56
+Key efficiency obtained is 56.5 %
+Qubit error-rate calculated by Alice is  16.071428571428573 %
